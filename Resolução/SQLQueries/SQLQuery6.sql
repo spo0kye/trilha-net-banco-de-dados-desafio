@@ -1,0 +1,2 @@
+SELECT * FROM Filmes WHERE Duracao BETWEEN 101 AND 149
+ORDER BY Duracao;
